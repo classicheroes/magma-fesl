@@ -1,0 +1,8 @@
+<update>
+    <id>{{ .ID }}</id>
+    <name>{{ .Name }}</name>
+    <state>{{ .State }}</state>
+    <type>{{ .Type }}</type>
+    <status>{{ .Status }}</status>
+    <realid>{{ .RealID }}</realid>
+</update>

@@ -1,0 +1,17 @@
+<products>
+	<product default_locale="en_US" state="Ready">
+		<attributes>
+			<attribute type="productType" name="MICROCONTENTUL" global="true" isMandatory="N" local="en_US" />
+			<attribute type="productTitle" name="WEST_Custom_Item_781-OFR1" global="true" isMandatory="Y" local="en_US" />
+			...
+			<attribute type="weight" name="0" global="true" isMandatory="N" local="en_US" attributeType="Integer" />
+		</attributes>
+		<status>ACTIVE</status>
+		<finances>
+			<finance finance_Id="1" />
+		</finances>
+		<prices>
+			<price locale="en_US" priceType="SALE_PRICE" currencyType="VIRTUAL_REWARD" currencyCode="_DV" priceValue="1" startDate="" endDate="" />
+		</prices>
+	</product>
+</products>

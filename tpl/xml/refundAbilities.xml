@@ -1,0 +1,5 @@
+<abilitiesRefund>
+   <userId>{{ .HeroID }}</userId>
+    <status>{{.Code}}</status>
+    <message>{{.Message}}</message>
+</abilitiesRefund>

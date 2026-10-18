@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<products>
+
+    <product productId="3169" default_locale="en_US" overwrite="false" status="Published">
+
+        <status>Published</status>
+
+        <attributes>
+
+            <attribute name="Product Id" value="3169" />
+
+            <attribute name="Product Name" value="Supreme Knife" />
+
+            <attribute name="Short Description" value="Powerful knife" />
+
+            <attribute name="Long Description" value="Classic Heroes knife item" />
+
+            <attribute name="entitlementTag" value="3169-003D-" />
+
+            <attribute name="groupName" value="BFHPC_Knife" />
+
+            <attribute name="duration" value="30" />
+
+            <attribute name="durationType" value="DAY" />
+
+            <attribute name="useCount" value="1" />
+
+            <attribute name="sortKey" value="1" />
+
+        </attributes>
+
+
+        <productName>
+            Supreme Knife
+        </productName>
+
+
+        <pricePoints>
+
+            <pricePoint
+            locale="en_US"
+            priceType="SALE_PRICE"
+            currencyType="VIRTUAL_REWARD"
+            currency="_DV"
+            price="296"
+            startDate=""
+            endDate=""
+            />
+
+        </pricePoints>
+
+
+    </product>
+
+
+
+
+    <product productId="2005" status="Published">
+
+        <status>Published</status>
+
+
+        <attributes>
+
+            <attribute name="Product Id" value="2005" />
+
+            <attribute name="Product Name" value="Supreme Bandage" />
+
+            <attribute name="entitlementTag" value="2005-003D-" />
+
+            <attribute name="groupName" value="BFHPC_Consumable" />
+
+            <attribute name="duration" value="1" />
+
+            <attribute name="useCount" value="10" />
+
+        </attributes>
+
+
+        <productName>
+            Supreme Bandage
+        </productName>
+
+
+        <pricePoints>
+
+
+            <pricePoint
+
+            locale="en_US"
+
+            priceType="SALE_PRICE"
+
+            currencyType="VIRTUAL_REWARD"
+
+            currency="_DV"
+
+            price="50"
+
+            />
+
+        </pricePoints>
+
+
+    </product>
+
+
+
+
+    <product productId="9000" status="Published">
+
+
+        <status>Published</status>
+
+
+        <attributes>
+
+
+            <attribute name="Product Id" value="9000" />
+
+
+            <attribute name="Product Name" value="XP Boost" />
+
+
+            <attribute name="entitlementTag" value="9000-003D-" />
+
+
+            <attribute name="groupName" value="BFHPC_Boost" />
+
+
+            <attribute name="duration" value="1" />
+
+
+            <attribute name="useCount" value="1" />
+
+
+        </attributes>
+
+
+
+        <productName>
+            XP Boost
+        </productName>
+
+
+
+        <pricePoints>
+
+
+            <pricePoint
+
+            locale="en_US"
+
+            priceType="SALE_PRICE"
+
+            currencyType="VIRTUAL_REWARD"
+
+            currency="_DV"
+
+            price="40"
+
+            />
+
+
+
+        </pricePoints>
+
+
+
+    </product>
+
+
+
+</products>

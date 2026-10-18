@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<entitlements>
+  <entitlement>
+    <entitlementId>1</entitlementId>
+		<entitlementTag>[3169]-UNLM-</entitlementTag>
+    <useCount>0</useCount>
+    <userId>{{ HeroID }}</userId>
+  </entitlement> 
+</entitlements>
